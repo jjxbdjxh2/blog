@@ -8,7 +8,7 @@ favicon        = "img/favicon.jpg"
 SortBy              = "default"
 
 [footer]
-    customText = "这里可以自定义footer内容"
+    customText = "JJXBDJXH-Blog"
 
 [dateFormat]
     # 使用当地日期格式
